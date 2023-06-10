@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "cSpell.allowCompoundWords": true,
+    "cSpell.words": [
+        "gitlab",
+        "snakeyaml",
+        "thkoeln"
+    ]
+}
